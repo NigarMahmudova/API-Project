@@ -1,0 +1,17 @@
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\bin\Debug\net6.0\EducationApi.Data.deps.json
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\bin\Debug\net6.0\EducationApi.Data.runtimeconfig.json
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\bin\Debug\net6.0\EducationApi.Data.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\bin\Debug\net6.0\EducationApi.Data.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\bin\Debug\net6.0\EducationApp.Core.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\bin\Debug\net6.0\EducationApp.Core.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\obj\Debug\net6.0\EducationApi.Data.csproj.AssemblyReference.cache
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\obj\Debug\net6.0\EducationApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\obj\Debug\net6.0\EducationApi.Data.AssemblyInfoInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\obj\Debug\net6.0\EducationApi.Data.AssemblyInfo.cs
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\obj\Debug\net6.0\EducationApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\obj\Debug\net6.0\EducationApi.Data.csproj.CopyComplete
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\obj\Debug\net6.0\EducationApi.Data.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\obj\Debug\net6.0\refint\EducationApi.Data.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\obj\Debug\net6.0\EducationApi.Data.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\obj\Debug\net6.0\EducationApi.Data.genruntimeconfig.cache
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApi.Data\obj\Debug\net6.0\ref\EducationApi.Data.dll

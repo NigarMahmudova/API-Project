@@ -1,0 +1,12 @@
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Core\bin\Debug\net6.0\EducationApp.Core.deps.json
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Core\bin\Debug\net6.0\EducationApp.Core.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Core\bin\Debug\net6.0\EducationApp.Core.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Core\obj\Debug\net6.0\EducationApp.Core.csproj.AssemblyReference.cache
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Core\obj\Debug\net6.0\EducationApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Core\obj\Debug\net6.0\EducationApp.Core.AssemblyInfoInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Core\obj\Debug\net6.0\EducationApp.Core.AssemblyInfo.cs
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Core\obj\Debug\net6.0\EducationApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Core\obj\Debug\net6.0\EducationApp.Core.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Core\obj\Debug\net6.0\refint\EducationApp.Core.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Core\obj\Debug\net6.0\EducationApp.Core.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Core\obj\Debug\net6.0\ref\EducationApp.Core.dll
