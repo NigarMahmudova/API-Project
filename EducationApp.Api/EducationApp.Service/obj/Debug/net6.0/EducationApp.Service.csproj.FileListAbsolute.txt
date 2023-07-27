@@ -1,0 +1,17 @@
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\bin\Debug\net6.0\EducationApp.Service.deps.json
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\bin\Debug\net6.0\EducationApp.Service.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\bin\Debug\net6.0\EducationApp.Service.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\bin\Debug\net6.0\EducationApi.Data.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\bin\Debug\net6.0\EducationApp.Core.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\bin\Debug\net6.0\EducationApi.Data.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\bin\Debug\net6.0\EducationApp.Core.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\obj\Debug\net6.0\EducationApp.Service.csproj.AssemblyReference.cache
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\obj\Debug\net6.0\EducationApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\obj\Debug\net6.0\EducationApp.Service.AssemblyInfoInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\obj\Debug\net6.0\EducationApp.Service.AssemblyInfo.cs
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\obj\Debug\net6.0\EducationApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\obj\Debug\net6.0\EducationApp.Service.csproj.CopyComplete
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\obj\Debug\net6.0\EducationApp.Service.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\obj\Debug\net6.0\refint\EducationApp.Service.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\obj\Debug\net6.0\EducationApp.Service.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Service\obj\Debug\net6.0\ref\EducationApp.Service.dll
