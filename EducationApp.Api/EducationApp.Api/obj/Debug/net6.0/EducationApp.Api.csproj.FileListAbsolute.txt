@@ -77,3 +77,10 @@ C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Proje
 C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Api\bin\Debug\net6.0\EducationApp.Service.dll
 C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Api\bin\Debug\net6.0\EducationApp.Service.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Api\bin\Debug\net6.0\MicroElements.Swashbuckle.FluentValidation.dll
+C:\Users\User Widnows 10 Home\Documents\C#\.NET tasks\API-FinalProject\API-Project\EducationApp.Api\EducationApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

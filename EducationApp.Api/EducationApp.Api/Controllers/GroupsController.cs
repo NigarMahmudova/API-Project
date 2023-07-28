@@ -5,9 +5,11 @@ using EducationApp.Core.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using EducationApp.Service.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EducationApp.Api.Controllers
 {
+    [Authorize(Roles = "Admin")]
     [Route("api/[controller]")]
     [ApiController]
     public class GroupsController : ControllerBase
