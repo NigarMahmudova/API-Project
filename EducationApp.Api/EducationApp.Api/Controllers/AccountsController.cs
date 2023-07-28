@@ -1,5 +1,6 @@
 ﻿using EducationApp.Core.Entities;
 using EducationApp.Service.Dtos.AccountDtos;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -87,6 +88,22 @@ namespace EducationApp.Api.Controllers
 
             var tokenStr = new JwtSecurityTokenHandler().WriteToken(token);
             return Ok(new { token = tokenStr });
+        }
+
+
+        [Authorize]
+        [HttpGet("profile")]
+        public async Task<IActionResult> Profile()
+        {
+            AppUser user = await _userManager.FindByNameAsync(User.Identity.Name);
+
+            return Ok(new
+            {
+                Id = user.Id,
+                Email = user.Email,
+                UserName = user.UserName,
+                FullName = user.FullName
+            });
         }
     }
 }

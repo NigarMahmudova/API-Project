@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace EducationApp.Api.Controllers
 {
-    [Authorize(Roles = "Admin")]
+    //[Authorize(Roles = "Admin")]
     [Route("api/[controller]")]
     [ApiController]
     public class GroupsController : ControllerBase

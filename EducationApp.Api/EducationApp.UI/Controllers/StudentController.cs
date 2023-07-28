@@ -16,7 +16,7 @@ namespace EducationApp.UI.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            using (var response = await _client.GetAsync($"products/all"))
+            using (var response = await _client.GetAsync($"students/all"))
             {
                 if (response.IsSuccessStatusCode)
                 {
@@ -51,7 +51,7 @@ namespace EducationApp.UI.Controllers
 
             StringContent requestContent = new StringContent(JsonConvert.SerializeObject(vm), System.Text.Encoding.UTF8, "application/json");
 
-            using (var response = await _client.PostAsync("products", requestContent))
+            using (var response = await _client.PostAsync("students", requestContent))
             {
                 if (response.IsSuccessStatusCode)
                     return RedirectToAction("index");
@@ -138,7 +138,7 @@ namespace EducationApp.UI.Controllers
         private async Task<List<GroupVMItem>> _getGroups()
         {
             List<GroupVMItem> data = new List<GroupVMItem>();
-            using (var response = await _client.GetAsync("brands/all"))
+            using (var response = await _client.GetAsync("groups/all"))
             {
                 if (response.IsSuccessStatusCode)
                 {
