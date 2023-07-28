@@ -41,7 +41,7 @@ namespace EducationApp.Api.Controllers
         //    {
         //        Email = "nigar@gmail.com",
         //        FullName = "Nigar Mahmudova",
-        //        UserName = "Nigar"
+        //        UserName = "Nigar_Admin"
         //    };
 
         //    var result = await _userManager.CreateAsync(admin, "Nigar123");

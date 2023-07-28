@@ -29,7 +29,7 @@ namespace EducationApp.Service.Implementations
 
         public List<StudentGetAllDto> GetAll()
         {
-            var dtos = _studentRepository.GetQueryable(x=>true, "Brand").ToList();
+            var dtos = _studentRepository.GetQueryable(x=>true, "Group").ToList();
 
             return _mapper.Map<List<StudentGetAllDto>>(dtos);
         }
