@@ -7,11 +7,11 @@ namespace EducationApp.UI.Controllers
 {
     public class GroupController : Controller
     {
-        private HttpClient _clinet;
+        private HttpClient _client;
         public GroupController()
         {
-            _clinet = new HttpClient();
-            _clinet.BaseAddress = new Uri("https://localhost:7090/api/");
+            _client = new HttpClient();
+            _client.BaseAddress = new Uri("https://localhost:7090/api/");
         }
         public async Task<IActionResult> Index()
         {
@@ -72,7 +72,7 @@ namespace EducationApp.UI.Controllers
 
         public async Task<IActionResult> Edit(int id)
         {
-            using (var response = await _clinet.GetAsync($"groups/{id}"))
+            using (var response = await _client.GetAsync($"groups/{id}"))
             {
                 if (response.IsSuccessStatusCode)
                 {
@@ -93,7 +93,7 @@ namespace EducationApp.UI.Controllers
 
             var requestContent = new StringContent(JsonConvert.SerializeObject(vm), System.Text.Encoding.UTF8, "application/json");
 
-            using (var response = await _clinet.PutAsync($"brands/{id}", requestContent))
+            using (var response = await _client.PutAsync($"brands/{id}", requestContent))
             {
                 if (response.IsSuccessStatusCode)
                     return RedirectToAction("index");
@@ -115,7 +115,7 @@ namespace EducationApp.UI.Controllers
         [HttpDelete]
         public async Task<IActionResult> Delete(int id)
         {
-            using (var response = await _clinet.DeleteAsync($"groups/{id}"))
+            using (var response = await _client.DeleteAsync($"groups/{id}"))
             {
                 if (response.IsSuccessStatusCode)
                 {

@@ -1,0 +1,45 @@
+﻿﻿
+@model StudentVM
+
+@{
+    ViewData["Title"] = "Index";
+    int order = 0;
+
+}
+<div class="container">
+    <div class="row d-flex justify-content-center">
+        <div class="col-md-8">
+            <h2>Students</h2>
+            <a asp-action="create" class="btn btn-primary">Create</a>
+        </div>
+        <div class="col-md-8">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">FullName</th>
+                        <th scope="col">Point</th>
+                        <th scope="col">GroupNo</th>
+                        <th scope="col">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Students)
+                    {
+                        order++;
+                            <tr>
+                                <th scope="row">@order</th>
+                                <td>@item.FullName</td>
+                                <td>@item.Point</td>
+                                <td>@item.GroupNo</td>
+                                <td>
+                                    <a asp-action="edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
+                                    <a asp-action="delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                                </td>
+                            </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
