@@ -93,7 +93,7 @@ namespace EducationApp.UI.Controllers
 
             var requestContent = new StringContent(JsonConvert.SerializeObject(vm), System.Text.Encoding.UTF8, "application/json");
 
-            using (var response = await _client.PutAsync($"brands/{id}", requestContent))
+            using (var response = await _client.PutAsync($"groups/{id}", requestContent))
             {
                 if (response.IsSuccessStatusCode)
                     return RedirectToAction("index");
